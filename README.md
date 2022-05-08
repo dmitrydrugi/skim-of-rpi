@@ -9,3 +9,5 @@ Scrutinizing of home automation solutions based on Raspberry Pi (light control, 
  - https://www.raspberrypi.com/documentation/computers/configuration.html#setting-up-a-routed-wireless-access-point
  - https://www.raspberrypi.com/documentation/computers/configuration.html#setting-up-a-bridged-wireless-access-point
 
+#### Ultra-cheap RPi plotter:
+ - https://github.com/evildmp/BrachioGraph
